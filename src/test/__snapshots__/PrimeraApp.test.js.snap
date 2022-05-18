@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas componente <PrimeraApp/> deve mostrar <PrimeraApp/> correctamente 1`] = `
+<Fragment>
+  <div>
+    <h1>
+      Esto es el primer functional component
+    </h1>
+    <h2>
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+    </h2>
+     2,
+     4,
+     6,
+     8,
+     10,
+     12,
+    <pre>
+      {"nobre":"pepe","edad":25}
+    </pre>
+  </div>
+  <div>
+    <h2>
+       Otra parte del componente 
+    </h2>
+    Hola soy pepe
+    <p>
+      soy un subtitulo
+    </p>
+  </div>
+</Fragment>
+`;
